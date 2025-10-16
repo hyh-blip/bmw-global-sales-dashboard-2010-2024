@@ -15,5 +15,4 @@ Power BI | DAX measures
 Dataset is **not** official BMW data.
 
 ## Links
-🔗 Kaggle Notebook: 
-🔗 LinkedIn Post: 
+🔗 LinkedIn Post: https://www.linkedin.com/posts/hnin-yee-hlaing-24a723226_powerbi-datavisualization-portfolio-activity-7384532031453560834-rAOg?utm_source=share&utm_medium=member_desktop&rcm=ACoAADi0K5oBWMxcy4RLgTP1AEmmPvi9I4uzVTU
